@@ -92,6 +92,7 @@ class CircularList {
 		cll.insert(10);
 		cll.insert(20);
 		cll.insert(30);
+		cll.insert(20);
 
 		cll.display();
 
